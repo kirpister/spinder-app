@@ -2,6 +2,9 @@
 
 ### INTRODUCTION
 
+[LIVE PAGE](https://spinder.netlify.app/)
+Please note that Spinder is still under construction!
+
 Spinder was created as part of Business College Helsinki Full Stack Developer program. This was our first major group project where we worked on a full stack application in a team of three. During our two month initial development process to create a minimum viable product we used agile methods like Scrum to keep up with our individual and common progress. During the project we got comfortable working in a team and using Git and GitHub to manage our project.
 
 Spinder features include creating a profile with a form that asks some questions about your preferences in music, you can also connect to your Spotify to display your currently playing track! This was possible with Spotify API. When you have created a profile you can go ahead and swipe through other Spinder users and chat with your matches. You can also find a music recommendation page that was curated by Team Spinder.
