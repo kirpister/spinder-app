@@ -6,11 +6,11 @@
 
 ## Project Authors/Contributors
 
-Jenni Alanko - https://github.com/kirpister
+[Jenni Alanko](https://github.com/kirpister)
 
-Alexander Otulugbu - https://github.com/BPharoh
+[Alexander Otulugbu](https://github.com/BPharoh)
 
-Onis Emem - https://github.com/oniso20
+[Onis Emem](https://github.com/oniso20)
 
 ## Available Scripts
 
