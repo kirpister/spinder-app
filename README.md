@@ -2,7 +2,8 @@
 
 ### INTRODUCTION
 
-[LIVE PAGE](https://spinder.netlify.app/)
+[LIVE PAGE!](https://spinder.netlify.app/) 
+
 Please note that Spinder is still under construction!
 
 Spinder was created as part of Business College Helsinki Full Stack Developer program. This was our first major group project where we worked on a full stack application in a team of three. During our two month initial development process to create a minimum viable product we used agile methods like Scrum to keep up with our individual and common progress. During the project we got comfortable working in a team and using Git and GitHub to manage our project.
