@@ -29,9 +29,5 @@ Password: test
 
 ## Project Authors/Contributors
 
-[Jenni Alanko](https://github.com/kirpister)
-
-[Alexander Otulugbu](https://github.com/BPharoh)
-
-[Onis Emem](https://github.com/oniso20)
+[Jenni Alanko](https://github.com/kirpister) | [Alexander Otulugbu](https://github.com/BPharoh) | [Onis Emem](https://github.com/oniso20)
 
